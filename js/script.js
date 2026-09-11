@@ -104,7 +104,7 @@ const contactInfoData = [
     { icon: "fa-envelope", label: "Email", value: "genushinethmini8@gmail.com", href: "mailto:genushinethmini8@gmail.com" },
     { icon: "fa-map-marker-alt", label: "Location", value: "Ambalangoda,Sri Lanka", href: null },
     { icon: "fa-phone-alt", label: "Phone", value: "0774232313", href: "tel:0774232313" },
-    { icon: "fa-globe", label: "Website", value: "GenushiNethmini.com", href: "#home" },
+    
 ];
 
 
